@@ -5,11 +5,11 @@ Elasticsearch Module for Zend Framework 2
 
 As easy as it can be with Composer, just run the following command :
 
-    php <composer.phar> require myprysm/elasticsearch-module dev-master
+    php <composer.phar> require romspacenut/elasticsearch-module dev-master
 
 Or add this line to your composer.json file in the require section :
 
-    "myprysm/elasticsearch-module": "dev-master"
+    "romspacenut/elasticsearch-module": "dev-master"
 
 Then update your composer dependencies
 
